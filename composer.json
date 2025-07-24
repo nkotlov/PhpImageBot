@@ -1,0 +1,10 @@
+{
+    "name": "user/telegram-image-bot",
+    "require": {
+        "php": ">=8.1",
+        "ext-imagick": "*"
+    },
+    "autoload": {
+        "psr-4": { "App\\": "src/" }
+    }
+}
